@@ -1,0 +1,11 @@
+{
+  "domain": "ge_appliances",
+  "name": "GE Appliances",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/ge_appliances",
+  "dependencies": [],
+  "codeowners": ["@jamiergrs"],
+  "requirements": ["gehomesdk==0.5.28"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}

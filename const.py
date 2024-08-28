@@ -1,0 +1,1 @@
+DOMAIN = "ge_appliances"
